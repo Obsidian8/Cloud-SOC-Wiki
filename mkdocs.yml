@@ -44,9 +44,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
 extra:
   social:
     - icon: simple/linkedin
-      link: https://www.linkedin.com/in/axel-banks-3b7712105/
+      link: https://www.linkedin.com/in/axel-banks-3b7712105
 
 copyright: Copyright &copy; 2025 Axel Banks

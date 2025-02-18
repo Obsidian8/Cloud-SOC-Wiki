@@ -2,8 +2,6 @@ site_name: AB's Cloud SOC Wiki
 docs_dir: docs/
 repo_name: 'Obsidian8/Cloud-SOC-Wiki'
 repo_url: 'https://github.com/Obsidian8/Cloud-SOC-Wiki'
-nav:
-  - Home: index.md
 theme:
   icon:
     logo: material/cloud-outline

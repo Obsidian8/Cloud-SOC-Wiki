@@ -73,10 +73,10 @@ Data Exfiltration no tools - gcloud and gsutil
 
 ### Rootkits
 
-===  "sshd injection"
+===  ""
 !!! tip "How to detect"
     
-    To detect the sshd injection: do this
+    TBD
     
 ### Container Attacks
 

@@ -76,7 +76,7 @@ Data Exfiltration no tools - gcloud and gsutil
 ===  ""
 !!! tip "How to detect"
     
-    Insert TBD
+    Content TBD
     
 ### Container Attacks
 

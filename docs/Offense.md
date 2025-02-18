@@ -73,10 +73,6 @@ Data Exfiltration no tools - gcloud and gsutil
 
 ### Rootkits
 
-===  ""
-!!! tip "How to detect"
-    
-    Content TBD
     
 ### Container Attacks
 

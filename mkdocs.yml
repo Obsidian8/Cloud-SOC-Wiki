@@ -1,6 +1,5 @@
 site_name: AB's Cloud SOC Wiki
-repo_name: 'Obsidian8/Cloud-SOC-Wiki'
-repo_url: 'https://github.com/Obsidian8/Cloud-SOC-Wiki'
+site_url: https://sitename.example
 theme:
   icon:
     logo: material/cloud-outline

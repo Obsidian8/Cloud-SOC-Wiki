@@ -25,8 +25,9 @@ Fields for Investigation
 * Subscription
 * Event initiated by
 * Resource group, Resource type, Resource
-* 
+
 === "Entra ID Audit & Sign-in Logs"
+
 === "Diagnostic Logs"
 
 === "NSG Flow Logs"
@@ -38,14 +39,13 @@ Fields for Investigation
 
 === "Entra ID"
 
-=== "Blogs & Resources"
+## Resources
 * https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
 * https://www.xintra.org/blog/tokens-in-entra-id-guide
-* 
+
 
 
 
 
 ## KQL
 * https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules
-* 

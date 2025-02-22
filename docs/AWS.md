@@ -31,14 +31,36 @@ Insight Events - collect Write Management Events
 ## CloudWatch
 ### CloudWatch Logs
     
-### Fields
+### Fields for Investigation
 
-=== "Important Fields for investigation"
+#### Who
+* userIdentity.arn
+* sourceIPAddress
+* userAgent
 
-    1. TBD
+#### What
+* accountId
+* eventSource
+* eventName
+* requestParameters
+    
+#### When
+* eventTime
+* awsRegion
+
+#### How
+* eventType
+* userIdentity.type
+* userIdentity.accessKeyId
+* userIdentity.invokedBy
+
+#### Result
+* eventID
+* errorCode
+* responseElements
+* sharedEventID
 
 
 
 ## Resources
 * https://traildiscover.cloud/
-* 

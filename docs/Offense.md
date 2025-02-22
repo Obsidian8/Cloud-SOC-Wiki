@@ -82,4 +82,3 @@ Data Exfiltration no tools - gcloud and gsutil
 * https://github.com/dafthack/CloudPentestCheatsheets/?tab=readme-ov-file
 * https://github.com/RhinoSecurityLabs/pacu
 * https://www.daehee.com/blog/scan-aws-ip-ssl-certificates/
-* 
